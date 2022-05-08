@@ -1,5 +1,5 @@
 # git_test
-My first GitHub repo!
+My first GitHub/GitLab repo!
 Hello Odin!
 
 Updating from Lucy...
